@@ -7,7 +7,7 @@
 STUFF!
 
 <?php 
-echo "HELLO!";
+echo 'HELLO!';
 
 ?>
 </body>
