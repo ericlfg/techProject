@@ -1,10 +1,9 @@
 <html>
 <head>
-
+<title>Stuff</title>
 </head>
 <body>
 
-STUFF!
 
 <?php 
 echo 'HELLO!';
