@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
         $username = $_POST["username"];
         $password = $_POST["password"];
         
-        if($username == 'user' && $password == 'password') {
+        if($username == 'admin' && $password == 'apple') {
             session_start();
             $_SESSION["authenticated"] = 'true';
             header('Location: index.php');
