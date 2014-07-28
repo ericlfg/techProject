@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 <html lang="en">
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
-    <title>Creating a simple to-do application - Part 1</title>
+    <title>TechProject</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
